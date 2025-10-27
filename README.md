@@ -49,17 +49,17 @@ Desarrollador especializado en IA, automatización y software full stack. Me mot
 
 <div align="center">
 
-<!-- Lenguajes más usados: Este sí funciona correctamente -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdiazm95&layout=compact&theme=nord" alt="Lenguajes más usados" />
 
-<!-- Badge de proyectos y stacks reales -->
+<br>
+
 <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Proyectos%20publicados-4-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%91%B6%20Stacks%20usados-Python,%20React,%20Node-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%E2%9C%94%EF%B8%8F%20Orientado%20a%20calidad-Pruebas%20y%20documentación%20cuidadas-important?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PYTHON,%20REACT,%20NODE-Stacks%20usados-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E2%9C%94%EF%B8%8F%20Orientado%20a%20calidad-Pruebas%20y%20documentación%20cuidadas-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Colaborativo-Listo%20para%20trabajar%20en%20equipo-orange?style=for-the-badge" />
 
-<!-- Frase destacada -->
-<br>
+<br><br>
+
 <i>“Enfocado en aportar tecnología útil y entendible, con código limpio y documentado.”</i>
 
 </div>
