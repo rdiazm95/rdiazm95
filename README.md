@@ -58,7 +58,7 @@ Desarrollador especializado en IA, automatización y software full stack. Me mot
 <img src="https://img.shields.io/badge/%E2%9C%94%EF%B8%8F%20Orientado%20a%20calidad-Pruebas%20y%20documentación%20cuidadas-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Colaborativo-Listo%20para%20trabajar%20en%20equipo-orange?style=for-the-badge" />
 
-
+<br>
 
 <i>“Enfocado en aportar tecnología útil y entendible, con código limpio y documentado.”</i>
 
