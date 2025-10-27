@@ -3,7 +3,7 @@
 #  rdiazm95
 
 [![Github](https://img.shields.io/badge/GitHub-rdiazm95-black?style=flat-square&logo=github)](https://github.com/rdiazm95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rdiazm95-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rdiazm95/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rdiazm95-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rubendim/)
 [![Email](https://img.shields.io/badge/Contacto-email-green?style=flat-square&logo=gmail)](mailto:rubendima27@gmail.com)
 
 </div>
@@ -68,7 +68,7 @@ Desarrollador especializado en IA, automatización y software full stack. Me mot
 
 ¿Interesado en colaborar, compartir conocimientos o lanzar proyectos juntos?
 - 💌 [rubendima27@gmail.com](mailto:rubendima27@gmail.com)
-- 💼 [LinkedIn: rdiazm95](https://www.linkedin.com/in/rdiazm95/)
+- 💼 [LinkedIn: rdiazm95](https://www.linkedin.com/in/rubendim/)
 
 ---
 
