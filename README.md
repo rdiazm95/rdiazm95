@@ -74,6 +74,6 @@ Desarrollador especializado en IA, automatización y software full stack. Me mot
 
 <div align="center">
 
-### 🚀 “Muchas gracias por visitar mi perfil”
+###    Muchas gracias por visitar mi perfil
 
 </div>
